@@ -113,3 +113,25 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Apple Crumble Recipe
+Ingredients
+
+- 1 cup all-purpose flour
+- 1/2 cup granulated sugar
+- 1/2 cup unsalted butter, cold and cut into small cubes
+- 4-5 apples (such as Granny Smith or Gala), peeled and sliced
+- 1 tablespoon granulated sugar (for sprinkling over apples)
+- 1 teaspoon ground cinnamon
+
+Instruction
+
+1. Preheat your oven to 350°F (175°C).
+2. In a mixing bowl, combine 1 cup of all-purpose flour, 1/2 cup of granulated sugar, and 1/2 cup of unsalted butter (cut into small cubes).
+3. Use your fingers to rub the butter into the flour and sugar until the mixture resembles coarse breadcrumbs.
+4. Press half of the mixture into the bottom of a greased baking dish to form the base.
+5. Peel and slice 4-5 apples (such as Granny Smith or Gala) and arrange them evenly over the base.
+6. Sprinkle the apples with 1 tablespoon of granulated sugar and 1 teaspoon of ground cinnamon.
+7. Spread the remaining crumble mixture evenly over the top of the apples.
+8. Bake in the preheated oven for 35-40 minutes, or until the top is golden brown and the apples are tender.
+9. Serve warm with a scoop of vanilla ice cream or a dollop of whipped cream. Enjoy!"
